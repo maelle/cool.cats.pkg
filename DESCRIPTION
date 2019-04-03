@@ -16,3 +16,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/maelle/cool.cats.pkg
+BugReports: https://github.com/maelle/cool.cats.pkg/issues
